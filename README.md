@@ -23,6 +23,14 @@ fields_of_interests:<br />
 currently_learning: ["SQL", "REST APIs & GraphQL", "TypeScript", "Spring Boot (for Java backend)", "DevOps Basics (CI/CD)"]<br />
 2025 Goals: ["Create 15+ Projects and learn at least 5-10 new Technologies."]<br />
 hobbies: ["Gaming", "Cinema", "Hiking", "Art"]<br />
+
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 <!--
 **GALDRENCYPHR/galdrencyphr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
