@@ -7,7 +7,8 @@ education:
   [
     "Self-Taught Designer ",
     "Master's in Computer Science",
-    "Udemy Fullstack developer course (https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ACCAGE0923)"]
+    "Udemy Fullstack developer course (https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ACCAGE0923)"
+    ]
 Company: Hire me!
 
 fields_of_interests:
