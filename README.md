@@ -20,9 +20,9 @@ fields_of_interests:<br />
     "Game Development",<br />
   ]<br />
  
-currently_learning: ["c#, Kubernetes, and React Native"]<br />
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]<br />
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]<br />
+currently_learning: ["SQL (PostgreSQL or MySQL)", "REST APIs & GraphQL", "TypeScript", "Spring Boot (for Java backend)", "DevOps Basics (CI/CD, deployment tools)"]<br />
+2025 Goals: ["Create 15+ Projects and learn at least 5-10 new Technologies."]<br />
+hobbies: ["Gaming", "Cinema", "Hiking", "Art"]<br />
 <!--
 **GALDRENCYPHR/galdrencyphr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
