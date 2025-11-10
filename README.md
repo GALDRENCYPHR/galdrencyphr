@@ -1,5 +1,27 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello!%20👋🏾&fontSize=90" />
 
+name: Tolulope Aina
+located_in: Limavady, United Kingdom
+current_job: Junior Java Developer
+education:
+  [
+    "Self-Taught Designer ",
+    "Master's in Computer Science",
+    "Udemy Fullstack developer course (https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ACCAGE0923)"]
+Company: Hire me!
+
+fields_of_interests:
+  [
+    "Digital Design",
+    "Motion design",
+    "Augmented Reality (AR)",
+    "UI/UX",
+    "Game Development",
+  ]
+ 
+currently_learning: ["Docker, Kubernetes, and React Native"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <!--
 **GALDRENCYPHR/galdrencyphr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
