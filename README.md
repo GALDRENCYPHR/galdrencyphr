@@ -1,13 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello!%20👋🏾&fontSize=90" />
 
-name: Tolulope Aina
-located_in: Limavady, United Kingdom
-current_job: Junior Java Developer
-education:
-  [
+Name: Tolulope Aina
+Located_in: Limavady, United Kingdom
+
+Education:
+ [
     "Self-Taught Designer ",
     "Master's in Computer Science",
-    "Udemy Fullstack developer course (https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ACCAGE0923)"
+    "[Udemy Fullstack developer course] (https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ACCAGE0923)"
     ]
 Company: Hire me!
 
