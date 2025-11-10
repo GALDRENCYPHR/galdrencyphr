@@ -3,26 +3,26 @@
 Name: Tolulope Aina <br />
 Located_in: Limavady, United Kingdom <br />
 
-Education:
- [
-    "Self-Taught Designer ",
-    "Master's in Computer Science",
-    "[Udemy Fullstack developer course] (https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ACCAGE0923)"
-    ]
-Company: Hire me!
+Education: <br />
+ [<br />
+    "Self-Taught Designer ",<br />
+    "Master's in Computer Science",<br />
+    "[Udemy Fullstack developer course] (https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ACCAGE0923)"<br />
+    ]<br />
+Company: Hire me!<br />
 
-fields_of_interests:
-  [
-    "Digital Design",
-    "Motion design",
-    "Augmented Reality (AR)",
-    "UI/UX",
-    "Game Development",
-  ]
+fields_of_interests:<br />
+  [<br />
+    "Digital Design",<br />
+    "Motion design",<br />
+    "Augmented Reality (AR)",<br />
+    "UI/UX",<br />
+    "Game Development",<br />
+  ]<br />
  
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Docker, Kubernetes, and React Native"]<br />
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]<br />
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]<br />
 <!--
 **GALDRENCYPHR/galdrencyphr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
