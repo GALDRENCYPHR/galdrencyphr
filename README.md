@@ -7,7 +7,7 @@ Education: <br />
  [<br />
     "Self-Taught Designer ",<br />
     "Master's in Computer Science",<br />
-    "[Udemy Fullstack developer course] (https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ACCAGE0923)"<br />
+    [Udemy Fullstack developer course](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ACCAGE0923)<br />
     ]<br />
 Company: Hire me!<br />
 
@@ -20,7 +20,7 @@ fields_of_interests:<br />
     "Game Development",<br />
   ]<br />
  
-currently_learning: ["Docker, Kubernetes, and React Native"]<br />
+currently_learning: ["c#, Kubernetes, and React Native"]<br />
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]<br />
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]<br />
 <!--
