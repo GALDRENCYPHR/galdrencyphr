@@ -20,7 +20,7 @@ fields_of_interests:<br />
     "Game Development",<br />
   ]<br />
  
-currently_learning: ["SQL", "REST APIs & GraphQL", "TypeScript", "Spring Boot (for Java backend)", "DevOps Basics (CI/CD, deployment tools)"]<br />
+currently_learning: ["SQL", "REST APIs & GraphQL", "TypeScript", "Spring Boot (for Java backend)", "DevOps Basics (CI/CD)"]<br />
 2025 Goals: ["Create 15+ Projects and learn at least 5-10 new Technologies."]<br />
 hobbies: ["Gaming", "Cinema", "Hiking", "Art"]<br />
 <!--
