@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello!%20👋🏾&fontSize=90" />
 
-Name: Tolulope Aina <br />
-Located_in: Limavady, United Kingdom <br />
+Name: Tolu Aina <br />
+Located_in: LondonDerry, United Kingdom <br />
 
 Education: <br />
  [<br />
